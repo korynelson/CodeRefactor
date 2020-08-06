@@ -93,6 +93,11 @@ p {
     max-width: 150px;
 }
 
+.benefits-list {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
 .footer {
     padding: 30px;
     clear: both;
@@ -150,7 +155,4 @@ p {
     margin-right: 25px;
 }
 
-#benefits-list {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+
