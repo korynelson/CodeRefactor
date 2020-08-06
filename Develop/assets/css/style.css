@@ -103,10 +103,7 @@ p {
     font-size: 20px;
 }
 
-#benefits-list {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+
 
 #search-engine-optimization {
     margin-bottom: 20px;
@@ -152,3 +149,7 @@ p {
     margin-right: 25px;
 }
 
+#benefits-list {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
