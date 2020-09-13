@@ -1,5 +1,5 @@
 # 01 HTML CSS Git: Code Refactor
-Refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+Refactored an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
 
 > Always leave the code you are editing a little cleaner than you found it.
 
