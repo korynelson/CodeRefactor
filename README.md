@@ -1,7 +1,8 @@
 # 01 HTML CSS Git: Code Refactor
 Refactored an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
 
-> Always leave the code you are editing a little cleaner than you found it.
+LINK:
+https://korynelson.github.io/codeRefactor/
 
 ![Image of Launched Website Header](/assets/images/websitePhoto1.PNG)
 ![Image of Launched Website Content](/assets/images/websitePhoto2.PNG)
